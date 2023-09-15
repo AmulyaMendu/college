@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.student-data{
+  display: flex;
+  flex-flow: column wrap;
+  height: 5%;
+  justify-content: space-evenly;
+} 
+
+input,select,button{
+  background-color: #efefef;
+  border: none;
+}
+button{
+  width: 170px;
+  background-color: blue;
+}
