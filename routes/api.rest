@@ -1,0 +1,18 @@
+GET  http://localhost:8080/students/all
+
+
+###
+
+POST http://localhost:8080/students/add
+Accept: application/json
+Content-Type: application/json
+
+
+{
+    "name":"janu",
+    "age":28,
+    "rollnumber":"12547",
+    "email":"janu@gmail.com",
+    "gender":"female"
+
+}
