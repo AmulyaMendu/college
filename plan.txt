@@ -1,0 +1,21 @@
+to manage college data
+students data
+{
+    name
+    email
+    roll number
+    age
+    gender
+
+}
+professors data
+{
+    name
+    email: '
+    phone number: ,
+    gender
+
+}
+
+from website we should able to add a student data and proffessor
+we should able to see all the data

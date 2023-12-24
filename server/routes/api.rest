@@ -1,0 +1,18 @@
+GET https://mycollegeapp-a7940ac0cd51.herokuapp.com/students/all
+
+
+###
+
+POST https://mycollegeapp-a7940ac0cd51.herokuapp.com/students/add
+Accept: application/json
+Content-Type: application/json
+
+
+{
+    "name":"harnu",
+    "age":6,
+    "rollnumber":"02",
+    "email":"harnu@gmail.com",
+    "gender":"female"
+
+}
